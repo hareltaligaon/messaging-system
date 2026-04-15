@@ -1,0 +1,7 @@
+aio-pika
+sqlalchemy
+asyncpg
+httpx
+twilio
+sendgrid
+python-dotenv
